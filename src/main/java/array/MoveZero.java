@@ -12,7 +12,7 @@ package array;
  * 必须在原数组上操作，不能拷贝额外的数组。
  * 尽量减少操作次数。
  */
-public class moveZero {
+public class MoveZero {
 
     public void moveZeroes(int nums[]) {
         int j = 0; //非零存放位置的指针
